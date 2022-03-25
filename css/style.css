@@ -464,15 +464,12 @@ gap:1.5rem;
     border:var(--border);
 }
 
-.blogs .box-container .box .image{
+.blogs .box-container .box .image img{
     height:25rem;
     width:100%;
     object-fit:cover;
 }
 
-.blogs .box-container .box:hover .image img{
-    transform:scale(1.2);
-}
 
 .blogs .box-container .box .content{
     padding:2rem;
